@@ -1,6 +1,6 @@
 class Animal(object):
-    def __init__(type='animal', name='Thing', legs=4, speak='Hello.', bad_speak='No.', tail=True, *args, **kwargs):
-        self.type = type
+    def __init__(self, typ='animal', name='Thing', legs=4, speak='Hello.', bad_speak='No.', tail=True, *args, **kwargs):
+        self.typ = str(typ)
         self.name = name
         self.legs = legs
         self.speak = speak
