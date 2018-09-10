@@ -6,14 +6,14 @@
 
 ### Requirement
 
-This Python course will be based upon the Python 3.x version (with backward-compatibility notations for Python 2.x where applicable) via the free Anaconda distribution/bundled software. This distribution contains many Python packages/utilities that go beyond the needs of scientific or engineering computation, analysis, and visualization. Each participant is expected to obtain the following piece of software for their laptop before the first lecture:
+This Python course will be based upon the Python 3.x version (with backward-compatibility notations for Python 2.x where applicable) via the free Anaconda distribution/bundled software. This distribution contains many Python packages/utilities that go beyond the needs of scientific or engineering computation, analysis, and visualization. Each participant is expected to obtain the following piece of software for their laptop:
 
 [Anaconda Download](http://www.anaconda.com/download/)
 
 __Note:__ Please download and use the command-line installer designated for your operation system rather than any graphical installer (Anaconda Navigator included). If you do not know how to use the command-line, please email us for further instructions. Also, at the end of the installation prompts, you are asked to install Microsoft’s VSCode software suite. We will NOT be using this as we will be using the Jupyter Notebook that is included in the download.  
 [http://jupyter.org](http://jupyter.org/)
 
-With Anaconda bundled by Continuum, your needs may extend what they deem appropriate and such information about this will be provided in the lectures.
+With Anaconda bundled by Continuum, your needs may extend what they deem appropriate and such information about this will be provided later in the lectures.
 
 ### Optional
 
